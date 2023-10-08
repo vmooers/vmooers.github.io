@@ -32,3 +32,19 @@
 "Planck":
   - firstname: ["Max"]
     url: https://en.wikipedia.org/wiki/Max_Planck
+    
+"Casella":
+  - firstname: ["Alessandra"]
+    url: https://blogs.cuit.columbia.edu/ac186/
+    
+"Ravindran":
+  - firstname: ["Dilip"]
+    url: https://sites.google.com/view/dilip-ravindran/home
+    
+"Meyer":
+  - firstname: ["Bruce", "Bruce D."]
+    url: https://voices.uchicago.edu/brucemeyer/
+    
+"Wu":
+  - firstname: ["Derek"]
+    url: https://www.derek-wu.com/
