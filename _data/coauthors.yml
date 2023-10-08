@@ -48,3 +48,7 @@
 "Wu":
   - firstname: ["Derek"]
     url: https://www.derek-wu.com/
+    
+"Caron":
+  - firstname: ["Laura", "Robin"]
+    url: https://laurakcaron.github.io/

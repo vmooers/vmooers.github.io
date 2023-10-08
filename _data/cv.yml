@@ -1,23 +1,12 @@
-- title: General Information
-  type: map
-  contents:
-    - name: Full Name
-      value: Victoria Mooers
-    - name: Languages
-      value: English, Spanish, Tamil
-
 - title: Education
   type: time_table
   contents:
     - title: PhD in Economics
       institution: Columbia University
       year: Expected 2025
-    - title: MPhil in Economics
-      institution: Columbia University
-      year: 2022
-    - title: MA in Economics
-      institution: Columbia University
-      year: 2021
+      description:
+        - MPhil, 2022
+        - MA, 2021
     - title: BA in Economics, Public Policy
       institution: University of Chicago
       year: 2016
@@ -25,70 +14,99 @@
         - General Honors, Honors in Economics, Honors in Public Policy
         - Specialization in Human Rights
 
-- title: Experience
+- title: Selected Experience
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
+    - title: Lab Manager
+      institution: Columbia Experimental Laboratory for Social Sciences
+      year: 2023 - Present
+    - title: Research Assistant for Alessandra Casella
+      institution: Columbia University
+      year: 2022-23
+    - title: Research Assistant for Joseph Stiglitz
+      institution: Columbia University
+      year: 2020-22
+    - title: Pre-Doctoral Fellowship with Bruce D. Meyer
+      institution: University of Chicago Harris School of Public Policy
+      year: 2018-19
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
-      description:
-        - Description 1.
-        - Description 2.
+        - Worked from Census Headquarters to build the <a href="https://cid.harris.uchicago.edu/">Comprehensive Income Dataset</a>
+    - title: Analyst
+      institution: Compass Lexecon, Antitrust & Competition Practice
+      year: 2016-17
 
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
-
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
-      description:
-
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
-
-- title: Open Source Projects
+- title: Selected Awards & Fellowships
   type: time_table
   contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
-
-- title: Honors and Awards
-  type: time_table
-  contents:
-    - year: 1921
+    - year: 2023
       items: 
-        - Nobel Prize in Physics 
-        - Matteucci Medal
-    - year: 2029
-      items: 
-        - Max Planck Medal
-
-- title: Academic Interests
-  type: nested_list
-  contents:
-    - title: Topic 1.
-      items: 
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
+        - Lewis A. Sanders Endowed Fellowship in Economics (for a PhD student in the department who demonstrates the potential to make important contributions to the field of economics)
+        - Wueller Pre-Dissertation Award, runner-up for best fourth-year proposal
+    - year: 2022
       items:
-        - Description 1.
-        - Description 2.
-
-- title: Other Interests
-  type: list
+        - Vickrey Prize, runner-up for best third-year paper
+    - year: 2021
+      items:
+        - Trudy and Paul Woodruff Fellowship
+    - year: 2019
+      items: 
+        - Economics Department Fellowship
+        - Provost Diversity Fellowship
+        - Dean’s Fellowship
+        
+- title: Grants Awarded
+  type: time_table
   contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+    - year: 2023
+      items: 
+        - Program for Economic Research (PER) Research Summer Fellow
+    - year: 2022
+      items:
+        - PER Research Summer Fellow
+        - PER Award for Field or Experimental Research
+    - year: 2021
+      items:
+        - Columbia Experimental Laboratory for Social Sciences (CELSS) Grant for Graduate Student Projects
+        - PER Research Summer Fellow
+        - Micro Theory Initiative (MTI) Summer Funding
+        - PER Award for Field or Experimental Research
+        
+- title: Conference Presentations
+  type: time_table
+  contents:
+    - year: 2023
+      items: 
+        - Student Workshop on Experimental Economics Techniques, New York University
+    - year: 2022
+      items:
+        - Women in Economic Theory Student Conference, University of Chicago
+        
+- title: Summer Schools & Workshops Attended
+  type: time_table
+  contents:
+    - year: 2023
+      items: 
+        - NBER Behavioral Public Economics Bootcamp
+    - year: 2022
+      items:
+        - Caltech CTESS Summer School on Theory Driven Experiments
+    - year: 2020
+      items:
+        - Virtual Berkeley Summer School in Environmental and Energy Economics
+        
+- title: Department Service
+  type: time_table
+  contents:
+    - title: Departmental Graduate Student Diversity Committee
+      year: 2020-present
+      description: 
+        - title: Undergraduate Mentoring Program
+          year: 2020-present
+          contents: 
+          - Organizer 2020-present
+          - Mentor 2022-present
+        - Departmental Diversity Committee Graduate Student Liaison 2020-21
+    - year: 2022-23
+      title: Applied Microeconomics Methods Colloquium Organizer
+    - title: Association of Graduate Economics Students (AGES) Graduate Mentoring Program mentor
+      year: 2020-22
