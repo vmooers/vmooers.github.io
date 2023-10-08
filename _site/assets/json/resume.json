@@ -1,0 +1,115 @@
+# this line is jsut to toss an error - remove it to use this file
+{
+  "basics": {
+    "name": "Victoria Mooers",
+    "label": "",
+    "image": "",
+    "email": "v.mooers@columbia.edu",
+    "phone": "",
+    "url": "",
+    "summary": "",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
+    },
+    "profiles": [
+      {
+        "network": "",
+        "username": "",
+        "url": ""
+      }
+    ]
+  },
+  "education": [
+    {
+      "institution": "Columbia University",
+      "url": "https://econ.columbia.edu/",
+      "area": "Economics",
+      "studyType": "PhD",
+      "startDate": "2019",
+      "endDate": "",
+      "score": "",
+      "courses": [
+        ""
+      ]
+    },
+    {
+      "institution": "Columbia University",
+      "url": "https://econ.columbia.edu/",
+      "area": "Economics",
+      "studyType": "MPhil",
+      "startDate": "2022",
+      "endDate": "2022",
+      "score": "",
+      "courses": [
+        ""
+      ]
+    },
+    {
+      "institution": "Columbia University",
+      "url": "https://econ.columbia.edu/",
+      "area": "Economics",
+      "studyType": "MA",
+      "startDate": "2021",
+      "endDate": "2021",
+      "score": "",
+      "courses": [
+        ""
+      ]
+    },
+    {
+      "institution": "University of Chicago",
+      "url": "https://uchicago.edu/",
+      "area": "Economics, Public Policy",
+      "studyType": "BA",
+      "startDate": "2012",
+      "endDate": "2016",
+      "score": "",
+      "courses": [
+      	"General Honors, Honors in Economics, Honors in Public Policy",
+        "Specialization in Human Rights"
+      ]
+    }
+  ],
+  "work": [
+    {
+      "name": "Institute for Advanced Study, Princeton University",
+      "position": "Professor of Theoretical Physics",
+      "url": "https://example.com",
+      "startDate": "1933-01-01",
+      "endDate": "1955-01-01",
+      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
+      "highlights": [
+        "Relativity"
+      ]
+    }
+  ],
+  "volunteer": [],
+  "awards": [
+    {
+      "title": "Nobel Prize in Physics",
+      "date": "1921-11-01",
+      "awarder": "Royal Swedish Academy of Sciences",
+      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
+    }
+  ],
+  "certificates": [],
+  "publications": [],
+  "skills": [],
+  "languages": [
+    {
+      "language": "German",
+      "fluency": "Native speaker"
+    },
+    {
+      "language": "English",
+      "fluency": "Fluent"
+    }
+  ],
+  "interests": [],
+  "references": [],
+  "projects": []
+}
