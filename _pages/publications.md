@@ -10,13 +10,15 @@ nav_order: 1
 
 ## Job Market Paper
 
-* Draft coming soon!*
-
 <div class="publications">
 
 {% bibliography -f jmp.bib %}
 
 </div>
+
+<br>
+
+<i>Draft coming soon!</i>
 
 <br>
 
