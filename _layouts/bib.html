@@ -190,6 +190,9 @@
           {%- if entry.nber %}
             <a href="https://www.nber.org/papers/{{ entry.nber }}" class="btn btn-sm z-depth-0" role="button">NBER</a>
           {%- endif %}
+          {%- if entry.podcast %}
+            <a href="{{ entry.podcast }}" class="btn btn-sm z-depth-0" role="button">Podcast</a>
+          {%- endif %}
           </div>
           {% if site.enable_publication_badges %}
           {% assign entry_has_altmetric_badge = entry.altmetric or entry.doi or  entry.eprint or entry.pmid or entry.isbn %}
