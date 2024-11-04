@@ -16,8 +16,6 @@ nav_order: 1
 
 </div>
 
-<i>Draft coming soon!</i>
-
 <br>
 
 ## Working Papers
