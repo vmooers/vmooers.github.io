@@ -19,10 +19,16 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Welcome! I am a 6th-year Economics PhD candidate at Columbia University. I am on the job market in 2024-2025. I am interested in topics related to political economy, social networks, and public economics. I use both lab experiments and tools from applied microeconomics. I served as the Lab Manager for the <a href = "https://celss.iserp.columbia.edu/">Columbia Experimental Laboratory for Social Sciences</a> in 2023.
+Welcome! For the 2025-2026 academic year, I am a Postdoctoral Scholar at the University of Chicago's 
+[Harris School of Public Policy](https://harris.uchicago.edu/) and 
+[Mansueto Institute for Urban Innovation](https://miurban.uchicago.edu/). 
+I will be joining the [University of Oklahoma](https://www.ou.edu/cas/economics) as an Assistant Professor in the 
+Department of Economics in August 2025 and will begin teaching there in August 2026.
 
-Prior to Columbia, I did a Pre-Doctoral Fellowship with UChicago's Harris School. I received my B.A. in Economics and in Public Policy from UChicago in 2016.
+My research interests lie in political economy, social networks, and public economics. 
+I use both lab experiments and tools from applied microeconomics.
 
-My CV is <a href = "./assets/pdf/cv.pdf">here</a>. 
+I received my Ph.D. in Economics from Columbia University in May 2025, and my B.A. in Economics and Public Policy from 
+UChicago in 2016. My CV is <a href = "./assets/pdf/cv.pdf">here</a>. 
 
-To contact me, please email v.mooers@columbia.edu
+To contact me, please email [v.mooers@columbia.edu](mailto:v.mooers@columbia.edu).
