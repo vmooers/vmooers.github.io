@@ -31,4 +31,4 @@ I use both lab experiments and tools from applied microeconomics.
 I received my Ph.D. in Economics from Columbia University in May 2025, and my B.A. in Economics and Public Policy from 
 UChicago in 2016. My CV is <a href = "./assets/pdf/cv.pdf">here</a>. 
 
-To contact me, please email [v.mooers@columbia.edu](mailto:v.mooers@columbia.edu).
+To contact me, please email [mooers@uchicago.edu](mailto:mooers@uchicago.edu).
