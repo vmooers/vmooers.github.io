@@ -22,8 +22,9 @@ social: true  # includes social icons at the bottom of the page
 Welcome! For the 2025-2026 academic year, I am a Postdoctoral Scholar at the University of Chicago's 
 [Harris School of Public Policy](https://harris.uchicago.edu/) and 
 [Mansueto Institute for Urban Innovation](https://miurban.uchicago.edu/). 
-I will be joining the [University of Oklahoma](https://www.ou.edu/cas/economics) as an Assistant Professor in the 
-Department of Economics in August 2025 and will begin teaching there in August 2026.
+I am also an Assistant Professor in the Department of Economics at the 
+[University of Oklahoma](https://www.ou.edu/cas/economics); 
+I am currently on leave and will begin teaching there in August 2026.
 
 My research interests lie in political economy, social networks, and public economics. 
 I use both lab experiments and tools from applied microeconomics.
