@@ -1,0 +1,1 @@
+LeafletWidget.methods.addProviderTiles=function(e,a,d,i){this.layerManager.addLayer(L.tileLayer.provider(e,i),"tile",a,d)};
