@@ -19,17 +19,15 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Welcome! For the 2025-2026 academic year, I am a Postdoctoral Scholar at the University of Chicago's 
-[Harris School of Public Policy](https://harris.uchicago.edu/) and 
-[Mansueto Institute for Urban Innovation](https://miurban.uchicago.edu/). 
-I am also an Assistant Professor in the Department of Economics at the 
-[University of Oklahoma](https://www.ou.edu/cas/economics); 
-I am currently on leave and will begin teaching there in August 2026.
+Welcome! I am an Assistant Professor in the Department of Economics at the 
+[University of Oklahoma](https://www.ou.edu/cas/economics).
 
 My research interests lie in political economy, social networks, and public economics. 
 I use both lab experiments and tools from applied microeconomics.
 
-I received my Ph.D. in Economics from Columbia University in May 2025, and my B.A. in Economics and Public Policy from 
+I received my Ph.D. in Economics from Columbia University in May 2025. I was then a Postdoctoral Scholar at the University of Chicago's 
+[Harris School of Public Policy](https://harris.uchicago.edu/) and 
+[Mansueto Institute for Urban Innovation](https://miurban.uchicago.edu/) for the 2025-2026 academic year. I received my B.A. in Economics and Public Policy from 
 UChicago in 2016. My CV is <a href = "./assets/pdf/cv.pdf">here</a>. 
 
-To contact me, please email [mooers@uchicago.edu](mailto:v.mooers@ou.edu).
+To contact me, please email [v.mooers@ou.edu](mailto:v.mooers@ou.edu).
